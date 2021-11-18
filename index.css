@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(231, 231, 231);
+}
+
+.intro {
+  text-align: center;
+}
+.weather-title {
+  margin-top: 2%;
+  text-align: center;
+  padding-bottom: 22px;
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.input-bar {
+  margin-top: 2%;
+  margin-left: 40%;
+  width: 20%;
+  height: 35px;
+}
+
+.submitb {
+  margin-top: 1%;
+  margin-left: 40%;
+  width: 20%;
+}
+.card {
+  margin-top: 2%;
+  margin-left: 35%;
+  height: auto;
+  width: 30%;
+}
+
+.card-text,
+.card-header {
+  text-align: center;
+}
+
+.card-text {
+  margin-top: 3%;
+}
+
+.card-title {
+  margin-top: 2%;
+  margin-bottom: -2%;
+}
+
+.ct-card {
+  text-transform: uppercase;
+}
